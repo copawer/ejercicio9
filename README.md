@@ -4,19 +4,19 @@ Inicio:parrotTrouble
 
 ## Introduccion de datos
 
-<h1>Habla</h1>
-<h1>Hora</h1>
-<h1>Mostrar el resultado</h1>
-<h1>Hora</h1>
+<p>Habla</p>
+<p>Hora</p>
+<p>Mostrar el resultado</p>
+<p>Hora</p>
 
 ## proceso
 
-<h1>pedir hora</h1>
-<h1>si el loro esta hablando antes de las 7 hrs o despues de las 20 hrs estamos en problemas</h1>
-<h1>entonces retorna a 1</h1>
+<p>pedir hora</p>
+<p>si el loro esta hablando antes de las 7 hrs o despues de las 20 hrs estamos en problemas</p>
+<p>entonces retorna a 1</p>
 
-<h1>sino retorna a 0</h1>
+<p>sino retorna a 0</p>
 
-<h1>mostrar resultado</h1>
+<p>mostrar resultado</p>>
 
 fin
