@@ -1,5 +1,6 @@
 
-function evaluar(){
+function evaluar()
+{
     var habla = document.getElementById("habla").value;
     var hora = parseFloat(document.getElementById("hora").value);
     

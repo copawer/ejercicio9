@@ -7,7 +7,7 @@ Inicio:parrotTrouble
 <p>Habla</p>
 <p>Hora</p>
 <p>Mostrar el resultado</p>
-<p>Hora</p>
+
 
 ## proceso
 
